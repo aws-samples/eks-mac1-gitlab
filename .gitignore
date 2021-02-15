@@ -1,0 +1,6 @@
+/bin/
+/node_modules/
+TODO
+HOWTO
+kubeconfig*.*
+pulumi.*.yaml
